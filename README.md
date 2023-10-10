@@ -11,11 +11,13 @@
 <hr>
 
 1. __Crear un repositorio en local__
+
 <br>
-    - Abre tu terminal y navega hasta el directorio donde deseas crear el repositorio.
-    - Crea una carpeta con el nombre del repositorio.
-    - Ingresa a la carpeta que acabas de crear.
-    - Inicializa el repositorio de Git.
+
+- Abre tu terminal y navega hasta el directorio donde deseas crear el repositorio.
+- Crea una carpeta con el nombre del repositorio.
+- Ingresa a la carpeta que acabas de crear.
+- Inicializa el repositorio de Git.
 
 <br>
 
@@ -30,7 +32,7 @@
 
 <br>
 
-    - Crea un nuevo repositorio en GitHub.
+- Crea un nuevo repositorio en GitHub.
 
 <br>
 
@@ -40,7 +42,7 @@
 
 <br>
 
-    - Copia el URL del repositorio que acabas de crear en GitHub
+- Copia el URL del repositorio que acabas de crear en GitHub
 
 <br>
 
@@ -49,7 +51,7 @@
 
 <br>
 
-    - Conecta tu repositorio local con el repositorio en GitHub.
+- Conecta tu repositorio local con el repositorio en GitHub.
 
 <br>
 
@@ -58,7 +60,7 @@
 
 <br>
 
-    - Verifica que la conexión se haya establecido correctamente.
+- Verifica que la conexión se haya establecido correctamente.
 
 <br>
 
@@ -77,7 +79,7 @@
 
 <br>
 
-    - Crea un archivo en la carpeta del repositorio.
+- Crea un archivo en la carpeta del repositorio.
 
 <br>
 
@@ -87,7 +89,7 @@
 
 <br>
 
-    - Añade el archivo al staging.
+- Añade el archivo al staging.
 
 <br>
 
@@ -97,7 +99,7 @@
 
 <br>
 
-    - Crea un commit con un mensaje descriptivo.
+- Crea un commit con un mensaje descriptivo.
     
 <br>
 
@@ -107,7 +109,7 @@
 
 <br>
 
-    - Sube los cambios al repositorio en GitHub.
+- Sube los cambios al repositorio en GitHub.
 
 <br>
 
@@ -122,7 +124,7 @@
 
 <br>
 
-    - Crea una rama nueva llamada "development".
+- Crea una rama nueva llamada "development".
 
 <br>
 
@@ -132,7 +134,7 @@
 
 <br>
 
-    - Cambia a la nueva rama.
+- Cambia a la nueva rama.
 
 <br>
 
@@ -142,7 +144,7 @@
 
 <br>
 
-    - Realiza algunos cambios en el archivo que creaste.
+- Realiza algunos cambios en el archivo que creaste.
     
 <br>
 
@@ -152,7 +154,7 @@
 
 <br>
 
-    - Añade y haz un commit con los cambios en la rama "development".
+- Añade y haz un commit con los cambios en la rama "development".
 
 <br>
 
@@ -162,7 +164,7 @@
 
 <br>
 
-    - Sube los cambios a Github.
+- Sube los cambios a Github.
 
 <br>
 
@@ -177,7 +179,7 @@
 
 <br>
 
-    - Vuelve a la rama "main".
+- Vuelve a la rama "main".
 
 <br>
 
@@ -187,7 +189,7 @@
 
 <br>
 
-    - Haz un merge de la rama "development" a la rama "main".
+- Haz un merge de la rama "development" a la rama "main".
 
 <br>
 
@@ -197,11 +199,11 @@
 
 <br>
 
-    - Si no hay conflictos, los cambios realizados en la rama "development" se incorporarán a la rama "main".
+- Si no hay conflictos, los cambios realizados en la rama "development" se incorporarán a la rama "main".
 
 <br>
 
-    - Haz un push de los cambios al repositorio en GitHub.
+- Haz un push de los cambios al repositorio en GitHub.
 
 <br>
 
