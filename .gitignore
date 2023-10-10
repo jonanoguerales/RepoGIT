@@ -1,1 +1,4 @@
 node-modules
+.parce-cache
+dist
+package-lock.json
